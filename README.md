@@ -1,6 +1,6 @@
 # Tugas 3 Pemrograman Bergerak
 
-Maulida Citra Illiyyin (F1D02310145)
+## Maulida Citra Illiyyin (F1D02310145)
 
 Hasil Screenshot:
 
